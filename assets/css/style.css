@@ -12603,3 +12603,10 @@ div#preloader {
         display: none
     }
 }
+
+
+@media (max-width: 400px) {
+    .main__logo--img{
+        margin-left: 25px;
+    }
+}
